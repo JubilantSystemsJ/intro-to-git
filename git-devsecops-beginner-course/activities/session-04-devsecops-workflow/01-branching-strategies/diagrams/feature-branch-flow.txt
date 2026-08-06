@@ -1,0 +1,7 @@
+main
+ |
+ +-- feature/add-page ----+
+ |                        |
+ +-- fix/update-email --- +--> merge back to main
+ |                        |
+ +-- docs/update-readme --+
