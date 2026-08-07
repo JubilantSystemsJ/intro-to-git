@@ -34,16 +34,21 @@ Each activity folder contains a `README.md`, an `exercise-starter/` folder, and 
 
 ## How to start as a student
 
-1. Read `student-guide/course-overview.md` first.
-2. Open the Session 1 activity README files and work through them in order.
-3. For each activity, copy the files from `exercise-starter/` into a separate practice folder before you run Git commands.
-4. Try the activity yourself before looking at `exercise-solution/`.
-5. Keep `student-guide/git-command-cheatsheet.md` open while you work.
+The main student content is in:
 
-Recommended starting point:
+- `student-guide/course-overview.md` for the learning path
+- `student-guide/git-command-cheatsheet.md` for commands
+- `activities/` for the actual hands-on work
 
-- `activities/session-01-local-git/01-manual-chaos-before-git/README.md`
-- then continue through the rest of Session 1 in order
+Recommended walkthrough:
+
+1. Read `student-guide/course-overview.md`.
+2. Open `student-guide/git-command-cheatsheet.md` and keep it nearby.
+3. Start at `activities/session-01-local-git/01-manual-chaos-before-git/README.md`.
+4. Continue through the activity README files in session order.
+5. For each activity, copy the files from `exercise-starter/` into a separate practice folder, do the task, then compare with `exercise-solution/`.
+
+If you want a quick preview of the full flow first, use `rehearsal/solo-local-rehearsal/README.md`.
 
 ## Security warning
 
