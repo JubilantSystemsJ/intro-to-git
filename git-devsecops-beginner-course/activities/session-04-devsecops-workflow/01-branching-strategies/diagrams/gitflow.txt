@@ -1,0 +1,7 @@
+main ------------------------------> production history
+ \
+  develop -------------------------> integration history
+   | \
+   |  +-- feature/*
+   +---- release/*
+   +---- hotfix/*

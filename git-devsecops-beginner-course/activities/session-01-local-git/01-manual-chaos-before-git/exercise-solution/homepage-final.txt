@@ -1,0 +1,3 @@
+Welcome to our Git class.
+Contact: class@example.com
+Course: Introduction to Git for DevSecOps

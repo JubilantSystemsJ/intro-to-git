@@ -1,0 +1,6 @@
+main -> shared source
+dev -> environment branch
+staging -> environment branch
+production -> environment branch
+
+Risk: branches can drift if changes are promoted unevenly.

@@ -1,0 +1,7 @@
+main
+ |
+ +-- short branch -> quick merge
+ |
+ +-- short branch -> quick merge
+ |
+ +-- frequent integration into trunk

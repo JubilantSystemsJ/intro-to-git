@@ -1,0 +1,3 @@
+main
+ |
+ +-- branch -> commit -> push -> pull request -> review/checks -> merge -> delete branch

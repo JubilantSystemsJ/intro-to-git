@@ -1,0 +1,17 @@
+name: Basic Check
+
+on:
+  pull_request:
+  push:
+
+jobs:
+  check-files:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for fake secret
+        run: |
+          if grep -R "admin123" .; then
+            echo "Secret-like value found"
+            exit 1
+          fi

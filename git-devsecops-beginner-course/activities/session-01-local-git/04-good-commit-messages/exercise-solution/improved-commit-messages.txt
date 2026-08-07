@@ -1,0 +1,6 @@
+Add about page
+Fix spelling mistake in README
+Update contact email
+Add navigation links
+Remove unused test file
+Update homepage heading

@@ -1,0 +1,23 @@
+# Glossary
+
+- repository: A project folder that Git tracks.
+- working directory: The files you are currently editing on your machine.
+- staging area: The place where you choose changes before making a commit.
+- commit: A saved snapshot of staged changes with history.
+- branch: A separate line of work inside the same repository.
+- main: The default shared branch in many repositories.
+- remote: A repository stored somewhere else, often on a server or another machine.
+- origin: The default name often used for the main remote you cloned from or push to.
+- upstream: The original source project, usually used in fork workflows.
+- clone: A full local copy of a repository.
+- push: Send local commits to a remote repository.
+- pull: Fetch remote changes and merge them into the current branch.
+- fetch: Download remote changes without merging them yet.
+- merge: Combine changes from one branch into another.
+- merge conflict: A situation where Git cannot combine changes automatically and needs a person to decide the final content.
+- pull request: A platform-based request to review and merge changes, common on GitHub.
+- merge request: GitLab’s name for a review-and-merge request, similar to a pull request.
+- `.gitignore`: A file that tells Git which untracked files to ignore.
+- secret: Sensitive information such as passwords, tokens, API keys, or private keys.
+- CI/CD: Continuous Integration and Continuous Delivery or Deployment, where changes are checked and sometimes released automatically.
+- branch protection: Rules that limit direct changes to important branches and require review or checks before merge.
