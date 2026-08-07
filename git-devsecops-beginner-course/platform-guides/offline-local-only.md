@@ -6,7 +6,7 @@ Offline local-only mode is useful when internet access is unavailable, student a
 
 ## Local folders
 
-Give each student a separate folder copied from the same starter content. This avoids shared-file confusion and keeps each person’s work isolated.
+Give each student a separate folder copied from the same exercise starter content. This avoids shared-file confusion and keeps each person’s work isolated.
 
 ## Bare repositories
 

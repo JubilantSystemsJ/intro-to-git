@@ -19,7 +19,7 @@ git init --bare --initial-branch=main "$official_repo" >/dev/null
 git init --initial-branch=main "$official_seed" >/dev/null
 git -C "$official_seed" config user.name "Course Tester"
 git -C "$official_seed" config user.email "course.tester@example.com"
-cp "$activity_dir/starter/README.md" "$official_seed/README.md"
+cp "$activity_dir/exercise-starter/README.md" "$official_seed/README.md"
 git -C "$official_seed" add README.md
 git -C "$official_seed" commit -m "Create official project" >/dev/null
 git -C "$official_seed" remote add origin "$official_repo"

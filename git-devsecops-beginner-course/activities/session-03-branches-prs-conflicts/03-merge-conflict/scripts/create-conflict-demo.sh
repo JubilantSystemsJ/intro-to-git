@@ -17,9 +17,9 @@ git init --bare --initial-branch=main "$remote_repo" >/dev/null
 git init --initial-branch=main "$seed_repo" >/dev/null
 git -C "$seed_repo" config user.name "Course Tester"
 git -C "$seed_repo" config user.email "course.tester@example.com"
-cp "$activity_dir/starter/index.html" "$seed_repo/index.html"
+cp "$activity_dir/exercise-starter/index.html" "$seed_repo/index.html"
 git -C "$seed_repo" add index.html
-git -C "$seed_repo" commit -m "Create starter page" >/dev/null
+git -C "$seed_repo" commit -m "Create exercise starter page" >/dev/null
 git -C "$seed_repo" remote add origin "$remote_repo"
 git -C "$seed_repo" push -u origin main >/dev/null
 git -C "$remote_repo" symbolic-ref HEAD refs/heads/main

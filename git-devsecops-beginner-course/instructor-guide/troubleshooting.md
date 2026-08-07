@@ -73,7 +73,7 @@ If the file contains a real secret and was pushed, treat it as compromised and r
 
 ## Students working inside the course materials repo
 
-Stop and move them to a copied starter folder or separate practice repository. The course repository should remain the instructor materials source, not the live student Git sandbox.
+Stop and move them to a copied exercise starter folder or separate practice repository. The course repository should remain the instructor materials source, not the live student Git sandbox.
 
 ## Internet failure fallback
 

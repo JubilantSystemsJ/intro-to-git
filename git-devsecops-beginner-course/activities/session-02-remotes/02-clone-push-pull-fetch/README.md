@@ -32,9 +32,9 @@ Using a remote plus two clones is more complex than editing one folder, but it m
 
 Students need to understand multiple commands that sound similar, especially `pull` versus `fetch`.
 
-## Starter files
+## Exercise starter files
 
-Starter files:
+Exercise starter files:
 
 ```markdown
 # DevSecOps Student Site
@@ -109,6 +109,6 @@ cat ../demo-student-b/index.html
 - Why is it useful for each student to have a full clone?
 - What happens if Student B edits before pulling Student A’s changes?
 
-## Reference solution
+## Exercise solution
 
-See `reference-solution/` for the expected final content.
+See `exercise-solution/` for the expected final content.

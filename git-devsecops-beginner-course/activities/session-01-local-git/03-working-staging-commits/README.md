@@ -32,9 +32,9 @@ Git’s working and staging model adds one extra concept, but it gives you preci
 
 The staging area can feel unfamiliar at first, and beginners sometimes forget what is staged versus unstaged.
 
-## Starter files
+## Exercise starter files
 
-`starter/README.md` contains:
+`exercise-starter/README.md` contains:
 
 ```markdown
 # DevSecOps Student Site
@@ -48,7 +48,7 @@ Working directory -> Staging area -> Commit history
 
 ## Instructions
 
-Copy the starter files into a separate practice repository, initialize Git, and then create three commits:
+Copy the exercise starter files into a separate practice repository, initialize Git, and then create three commits:
 
 ```bash
 git add README.md
@@ -95,6 +95,6 @@ You should see a clean tree and three commits in order.
 - What advantage does the staging area provide?
 - When would a single large commit be harder to review?
 
-## Reference solution
+## Exercise solution
 
-See `reference-solution/` for the expected final files.
+See `exercise-solution/` for the expected final files.

@@ -40,13 +40,13 @@ check_activity_readme() {
     "## What was wrong or limited about the old way?"
     "## Is this the simplest solution? If not, why accept the complexity?"
     "## Trade-offs and downsides"
-    "## Starter files"
+    "## Exercise starter files"
     "## Instructions"
     "## Expected result"
     "## Check your work"
     "## Common mistakes"
     "## Discussion questions"
-    "## Reference solution"
+    "## Exercise solution"
   )
 
   for section in "${sections[@]}"; do
@@ -78,8 +78,8 @@ require_file "$course_root/rehearsal/solo-local-rehearsal/README.md"
 
 while IFS= read -r activity_dir; do
   require_file "$activity_dir/README.md"
-  require_dir "$activity_dir/starter"
-  require_dir "$activity_dir/reference-solution"
+  require_dir "$activity_dir/exercise-starter"
+  require_dir "$activity_dir/exercise-solution"
   check_activity_readme "$activity_dir/README.md"
 done < <(find "$course_root/activities" -mindepth 2 -maxdepth 2 -type d | sort)
 
@@ -90,7 +90,7 @@ grep -F "origin = my remote copy" \
 grep -F "merge to \`main\` only deploys if CI/CD is configured that way" \
   "$course_root/activities/session-04-devsecops-workflow/01-branching-strategies/README.md" >/dev/null
 grep -F "Do not commit real passwords, API keys, tokens, private keys, certificates, or cloud credentials." \
-  "$course_root/activities/session-04-devsecops-workflow/03-secrets-and-devsecops-safety/reference-solution/security-note.md" >/dev/null
+  "$course_root/activities/session-04-devsecops-workflow/03-secrets-and-devsecops-safety/exercise-solution/security-note.md" >/dev/null
 
 if find "$course_root" \
   \( \

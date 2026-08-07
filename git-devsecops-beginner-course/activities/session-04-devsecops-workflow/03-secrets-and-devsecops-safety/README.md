@@ -32,9 +32,9 @@ Keeping real secrets outside Git and using example files adds process, but it av
 
 Students must learn the difference between documented configuration and actual secret storage.
 
-## Starter files
+## Exercise starter files
 
-Starter file:
+Exercise starter file:
 
 ```text
 DB_HOST=localhost
@@ -44,7 +44,7 @@ DB_PASSWORD=admin123
 
 ## Instructions
 
-1. Review `starter/config.txt` and identify which value should not be stored as a real secret in Git.
+1. Review `exercise-starter/config.txt` and identify which value should not be stored as a real secret in Git.
 2. Replace the pattern with `.env.example` and `.gitignore`.
 3. Discuss incident response if a real secret was already pushed.
 
@@ -86,6 +86,6 @@ Then explain in one sentence what must happen if a real secret was pushed.
 - Why is Git history part of the security risk?
 - What should a team do first after discovering a real leaked secret?
 
-## Reference solution
+## Exercise solution
 
-See `reference-solution/.gitignore`, `.env.example`, and `security-note.md`.
+See `exercise-solution/.gitignore`, `.env.example`, and `security-note.md`.

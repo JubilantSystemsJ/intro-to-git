@@ -32,9 +32,9 @@ Many company repos only use `origin`, which is simpler. The extra `upstream` rem
 
 Using both remote names adds one more concept and is unnecessary in some teams.
 
-## Starter files
+## Exercise starter files
 
-Starter content:
+Exercise starter content:
 
 ```markdown
 # Official Project
@@ -105,6 +105,6 @@ cat ../demo-workspace/student-local/README.md
 - When can a team ignore `upstream` completely?
 - What risks appear if you forget to fetch the original project?
 
-## Reference solution
+## Exercise solution
 
-See `reference-solution/README.md` for the final merged content.
+See `exercise-solution/README.md` for the final merged content.

@@ -19,7 +19,7 @@ Give short demos, then let students repeat the same flow themselves.
 
 ## Advice for remote students
 
-Do not make remote learners edit the same shared folder. Give each student the same starter files in their own local copy, then simulate collaboration through Git remotes or file exchange. Keep screen-share demos short and repeat commands in chat or course notes.
+Do not make remote learners edit the same shared folder. Give each student the same exercise starter files in their own local copy, then simulate collaboration through Git remotes or file exchange. Keep screen-share demos short and repeat commands in chat or course notes.
 
 ## Advice for low-bandwidth classrooms
 

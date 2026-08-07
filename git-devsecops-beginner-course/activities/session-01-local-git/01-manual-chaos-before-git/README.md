@@ -32,9 +32,9 @@ The simplest way is still to send files around manually, but that simplicity bre
 
 Git introduces commands, history, and branching concepts that beginners must learn. The extra complexity is acceptable because it replaces much larger collaboration problems.
 
-## Starter files
+## Exercise starter files
 
-`starter/homepage.txt` begins with one short line:
+`exercise-starter/homepage.txt` begins with one short line:
 
 ```text
 Welcome to our school website.
@@ -51,7 +51,7 @@ Release manager: combine the files manually
 
 ## Instructions
 
-1. Copy `starter/homepage.txt` into three student folders outside this course repository.
+1. Copy `exercise-starter/homepage.txt` into three student folders outside this course repository.
 2. Ask Student A to change the welcome message.
 3. Ask Student B to add contact information.
 4. Ask Student C to add course information.
@@ -82,7 +82,7 @@ Students should see that combining edits manually is slow, error-prone, and depe
 
 ## Check your work
 
-Confirm that the manually combined file matches the reference solution:
+Confirm that the manually combined file matches the exercise solution:
 
 ```text
 Welcome to our Git class.
@@ -102,6 +102,6 @@ Course: Introduction to Git for DevSecOps
 - How would this scale to ten people or twenty files?
 - What evidence of change history was missing?
 
-## Reference solution
+## Exercise solution
 
-See `reference-solution/homepage-final.txt`.
+See `exercise-solution/homepage-final.txt`.

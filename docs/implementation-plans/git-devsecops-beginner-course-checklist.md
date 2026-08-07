@@ -27,7 +27,7 @@ Create a complete beginner-friendly Git for DevSecOps course package with reusab
 ### In scope
 
 - Course root structure and all requested guides
-- Every activity README, starter, and reference-solution asset
+- Every activity README, exercise-starter, and exercise-solution asset
 - Useful helper folders such as `notes/`, `scripts/`, and `diagrams/` where requested
 - Rehearsal README and runnable Bash scripts
 - Regression checks for structure, README sections, required content markers, and shell syntax
@@ -36,7 +36,7 @@ Create a complete beginner-friendly Git for DevSecOps course package with reusab
 
 - Internet-dependent platform automation
 - Real CI platform configuration beyond the requested sample workflow file
-- Packaging slides beyond a starter `slides/README.md`
+- Packaging slides beyond a `slides/README.md`
 
 ## Runtime Budgets and Timeout Contract
 
@@ -88,22 +88,22 @@ The repo contains the implementation checklist and root documentation entry poin
 
 ### Goal
 
-Create the course guides, platform docs, and all activity content with complete starter and reference assets.
+Create the course guides, platform docs, and all activity content with complete exercise-starter and exercise-solution assets.
 
 ### Checklist
 
 - [x] P2-01 Write the course root README and the `slides/` placeholder guide.
 - [x] P2-02 Write the student, instructor, and platform guides.
-- [x] P2-03 Create Session 1 activities with complete READMEs and starter/reference files.
-- [x] P2-04 Create Session 2 activities with complete READMEs, starter/reference files, and local remote scripts.
-- [x] P2-05 Create Session 3 activities with complete READMEs, starter/reference files, and conflict/review assets.
+- [x] P2-03 Create Session 1 activities with complete READMEs and exercise-starter/exercise-solution files.
+- [x] P2-04 Create Session 2 activities with complete READMEs, exercise-starter/exercise-solution files, and local remote scripts.
+- [x] P2-05 Create Session 3 activities with complete READMEs, exercise-starter/exercise-solution files, and conflict/review assets.
 - [x] P2-06 Create Session 4 activities with complete READMEs, diagrams, security content, CI/CD sample, and capstone assets.
 
 ### Verifiable Outputs
 
-- All activity folders contain `README.md`, `starter/`, and `reference-solution/`.
+- All activity folders contain `README.md`, `exercise-starter/`, and `exercise-solution/`.
 - Every activity README follows the required section template.
-- Requested starter and reference files match the prompt.
+- Requested exercise-starter and exercise-solution files match the prompt.
 
 ### Local Validation Tasks
 
@@ -178,7 +178,7 @@ All requested validations pass or any remaining gap is explicitly documented wit
 
 - [x] All requested directories and files exist under `git-devsecops-beginner-course/`.
 - [x] Every activity README uses the required section headings.
-- [x] Starter and reference assets are populated, not placeholder-only.
+- [x] Exercise-starter and exercise-solution assets are populated, not placeholder-only.
 - [x] Rehearsal scripts are safe, local-only, and syntactically valid.
 - [x] Regression tests pass.
 - [x] Final report distinguishes tested scripts from untested ones.

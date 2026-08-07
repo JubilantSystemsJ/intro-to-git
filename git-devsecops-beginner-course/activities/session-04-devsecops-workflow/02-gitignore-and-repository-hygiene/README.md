@@ -32,9 +32,9 @@ Ignoring files and reviewing status adds a small habit, but it prevents much lar
 
 `.gitignore` rules need maintenance, and beginners can wrongly assume ignored rules affect files already tracked.
 
-## Starter files
+## Exercise starter files
 
-Starter files:
+Exercise starter files:
 
 ```text
 DB_HOST=localhost
@@ -90,6 +90,6 @@ cat .env.example
 - Why do logs usually not belong in Git?
 - What should you do if a secret file was already committed?
 
-## Reference solution
+## Exercise solution
 
-See `reference-solution/.gitignore` and `reference-solution/.env.example`.
+See `exercise-solution/.gitignore` and `exercise-solution/.env.example`.

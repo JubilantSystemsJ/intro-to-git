@@ -32,9 +32,9 @@ Using a plain folder is simpler at first, but it does not give history or change
 
 Students must learn repository concepts, hidden metadata, and a few commands before seeing the full benefit.
 
-## Starter files
+## Exercise starter files
 
-`starter/README.md` contains:
+`exercise-starter/README.md` contains:
 
 ```markdown
 # DevSecOps Student Site
@@ -42,7 +42,7 @@ Students must learn repository concepts, hidden metadata, and a few commands bef
 
 ## Instructions
 
-Copy the starter content into a new practice folder outside the course materials repository. Then run:
+Copy the exercise starter content into a new practice folder outside the course materials repository. Then run:
 
 ```bash
 mkdir devsecops-student-site
@@ -86,6 +86,6 @@ You should see a clean working tree, a commit named `Add README`, and a `.git` f
 - Why is `.git` hidden?
 - Why should nested `.git` folders be avoided inside this course repo?
 
-## Reference solution
+## Exercise solution
 
-See `reference-solution/README.md`.
+See `exercise-solution/README.md`.

@@ -3,7 +3,7 @@
 ## Course setup on GitHub
 
 1. Create a course materials repository for instructor content.
-2. Create a student template repository with clean starter content.
+2. Create a student template repository with clean exercise starter content.
 3. Create group working repositories or let each student create a personal practice repository.
 
 ## Common student workflow

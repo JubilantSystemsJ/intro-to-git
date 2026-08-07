@@ -25,6 +25,19 @@ DevSecOps teams use Git because it helps them:
 3. Session 3 introduces branches, pull requests, reviews, and merge conflicts.
 4. Session 4 connects Git habits to DevSecOps workflow, hygiene, safety, and CI/CD.
 
+## How to work through the course
+
+Use the materials in this order:
+
+1. Read this overview once.
+2. Open `student-guide/git-command-cheatsheet.md`.
+3. Start with `activities/session-01-local-git/01-manual-chaos-before-git/README.md`.
+4. Continue through each activity README in order.
+5. For every activity, copy the files from `exercise-starter/` into your own practice folder before you begin.
+6. Only check `exercise-solution/` after you have tried the task yourself.
+
+If you want a scripted dry run first, use `rehearsal/solo-local-rehearsal/README.md`.
+
 ## What you should be able to do by the end
 
 By the end of the course, you should be able to:

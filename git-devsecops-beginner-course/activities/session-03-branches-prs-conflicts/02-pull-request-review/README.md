@@ -32,15 +32,15 @@ Direct merge is simpler, but a review step catches mistakes and keeps collaborat
 
 Review adds time and can slow delivery if changes are too large or reviewers are unavailable.
 
-## Starter files
+## Exercise starter files
 
-Starter README:
+Exercise starter README:
 
 ```markdown
 # DevSecOps Student Site
 ```
 
-Starter homepage:
+Exercise starter homepage:
 
 ```html
 <h1>Welcome</h1>
@@ -94,6 +94,6 @@ If using a platform, also confirm the PR or MR shows review activity.
 - Why should a branch stay focused on one change?
 - How can review help catch security mistakes?
 
-## Reference solution
+## Exercise solution
 
-See `reference-solution/README.md` and `notes/review-comment-examples.md`.
+See `exercise-solution/README.md` and `notes/review-comment-examples.md`.

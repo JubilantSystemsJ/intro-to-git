@@ -32,7 +32,7 @@ Writing a clear message takes a little more thought, but it saves time every tim
 
 Good commit messages require discipline and may feel slower at first.
 
-## Starter files
+## Exercise starter files
 
 Bad examples:
 
@@ -45,7 +45,7 @@ done
 final changes
 ```
 
-Starter page:
+Exercise starter page:
 
 ```html
 <h1>About</h1>
@@ -53,7 +53,7 @@ Starter page:
 
 ## Instructions
 
-1. Review `starter/bad-commit-messages.txt`.
+1. Review `exercise-starter/bad-commit-messages.txt`.
 2. Discuss why each example is weak.
 3. Edit `about.html` to make the heading more descriptive.
 4. Make a commit with a useful message such as:
@@ -111,6 +111,6 @@ Confirm the new commit message explains the change clearly.
 - How might a good message help during an incident review?
 - When should a commit be split into smaller changes?
 
-## Reference solution
+## Exercise solution
 
-See `reference-solution/improved-commit-messages.txt` and `reference-solution/about.html`.
+See `exercise-solution/improved-commit-messages.txt` and `exercise-solution/about.html`.

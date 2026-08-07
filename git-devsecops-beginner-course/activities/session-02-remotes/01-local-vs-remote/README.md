@@ -32,9 +32,9 @@ Keeping everything local is simpler for one person, but a remote becomes worth i
 
 Remotes add setup, access control, and synchronization commands. Beginners also need to understand that local and remote history can drift until changes are exchanged.
 
-## Starter files
+## Exercise starter files
 
-Starter files:
+Exercise starter files:
 
 ```markdown
 # DevSecOps Student Site
@@ -99,6 +99,6 @@ Confirm that `origin` is configured and `main` was pushed successfully.
 - What can you do locally that does not affect the remote yet?
 - Why might a team keep working locally before pushing?
 
-## Reference solution
+## Exercise solution
 
-The reference solution matches the starter files. The key outcome is the local and remote repository relationship created by the script.
+The exercise solution matches the exercise starter files. The key outcome is the local and remote repository relationship created by the script.

@@ -7,6 +7,7 @@ This rehearsal pack lets an instructor practise the whole course on one machine 
 - Confirm Git is installed with `git --version`.
 - Run the scripts from `git-devsecops-beginner-course/rehearsal/solo-local-rehearsal/`.
 - Delete the demo workspace at any time with `rm -rf demo-workspace`.
+- Use this rehearsal pack as a guided preview before the manual activities, not as a replacement for working through the activity READMEs and `exercise-starter/` folders yourself.
 
 ## Rehearsal sequence
 

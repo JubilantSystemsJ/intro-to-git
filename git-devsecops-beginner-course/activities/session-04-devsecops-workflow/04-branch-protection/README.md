@@ -32,9 +32,9 @@ Platform rules add configuration overhead, but they reduce high-risk mistakes on
 
 Protection rules can slow urgent changes if the process is too heavy or if approvals are not available.
 
-## Starter files
+## Exercise starter files
 
-Starter README:
+Exercise starter README:
 
 ```markdown
 # Branch Protection Demo
@@ -76,6 +76,6 @@ If using a platform, inspect the repository settings for the protected branch ru
 - What risks still remain even with branch protection?
 - How would you handle urgent fixes safely?
 
-## Reference solution
+## Exercise solution
 
-See `reference-solution/branch-rules.md`.
+See `exercise-solution/branch-rules.md`.

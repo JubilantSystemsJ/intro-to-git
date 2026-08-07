@@ -25,12 +25,25 @@ The course is designed for four instructor-led sessions with hands-on activities
 
 ## How to use the activities
 
-Each activity folder contains a `README.md`, a `starter/` folder, and a `reference-solution/` folder. Students should copy the starter files into their own working folder before following the commands. Instructors can use the reference solution to compare outcomes or recover quickly during a live class.
+Each activity folder contains a `README.md`, an `exercise-starter/` folder, and an `exercise-solution/` folder. Students should copy the exercise starter files into their own working folder before following the commands. Instructors can use the exercise solution to compare outcomes or recover quickly during a live class.
 
-## `starter/` vs `reference-solution/`
+## `exercise-starter/` vs `exercise-solution/`
 
-- `starter/` contains the files students need before they begin the activity.
-- `reference-solution/` contains one completed version of the activity outcome.
+- `exercise-starter/` contains the files students need before they begin the activity.
+- `exercise-solution/` contains one completed version of the activity outcome.
+
+## How to start as a student
+
+1. Read `student-guide/course-overview.md` first.
+2. Open the Session 1 activity README files and work through them in order.
+3. For each activity, copy the files from `exercise-starter/` into a separate practice folder before you run Git commands.
+4. Try the activity yourself before looking at `exercise-solution/`.
+5. Keep `student-guide/git-command-cheatsheet.md` open while you work.
+
+Recommended starting point:
+
+- `activities/session-01-local-git/01-manual-chaos-before-git/README.md`
+- then continue through the rest of Session 1 in order
 
 ## Security warning
 
@@ -38,12 +51,12 @@ Do not commit real secrets into this course repository or into student practice 
 
 ## Nested repository warning
 
-Do not create nested Git repositories inside this course repository. When an activity asks students to run `git init`, copy the starter files into a separate practice folder first and run Git there.
+Do not create nested Git repositories inside this course repository. When an activity asks students to run `git init`, copy the exercise starter files into a separate practice folder first and run Git there.
 
 ## Recommended live teaching setup
 
 - Course materials repo: this repository, used by the instructor
-- Student template repo: a clean starter repo copied or cloned by students
+- Student template repo: a clean exercise starter repo copied or cloned by students
 - Group or student working repos: separate practice repos where students run Git commands safely
 
 ## Suggested four-session flow
@@ -85,5 +98,5 @@ Delete branch after merge.
 - `student-guide/` explains the course in student-friendly language.
 - `instructor-guide/` provides delivery notes, troubleshooting, and rehearsal guidance.
 - `platform-guides/` adapts the course to GitHub, GitLab, Gitea, and offline local-only teaching.
-- `activities/` contains session-by-session labs with starter files and reference solutions.
+- `activities/` contains session-by-session labs with exercise starter files and exercise solutions.
 - `rehearsal/solo-local-rehearsal/` contains local scripts for instructor practice without internet access.

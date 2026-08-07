@@ -32,9 +32,9 @@ The simplest beginner answer is a feature branch workflow. Learning the other mo
 
 Heavier models can add process overhead. Lighter models need discipline and good automated or manual checks.
 
-## Starter files
+## Exercise starter files
 
-Starter file:
+Exercise starter file:
 
 ```markdown
 # Branching strategies
@@ -92,6 +92,6 @@ Which branching strategy would you teach beginners first, and why?
 - What makes trunk-based development work well or poorly?
 - When do environment branches become risky?
 
-## Reference solution
+## Exercise solution
 
-The reference solution is the set of summaries and diagrams in this folder.
+The exercise solution is the set of summaries and diagrams in this folder.

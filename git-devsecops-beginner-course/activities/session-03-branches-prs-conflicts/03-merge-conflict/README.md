@@ -32,9 +32,9 @@ Avoiding collaboration would avoid conflicts, but that is not realistic. Git’s
 
 Conflicts can feel intimidating and they interrupt flow until someone makes a decision.
 
-## Starter files
+## Exercise starter files
 
-Starter page:
+Exercise starter page:
 
 ```html
 <h1>Welcome</h1>
@@ -101,6 +101,6 @@ After resolution, the file should contain the merged heading and no conflict mar
 - What makes a good conflict resolution?
 - When is it better to talk to the other developer before resolving?
 
-## Reference solution
+## Exercise solution
 
-See `reference-solution/index.html`.
+See `exercise-solution/index.html`.

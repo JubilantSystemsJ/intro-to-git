@@ -6,7 +6,7 @@ Bring together branching, commits, review, hygiene, and safety in one small proj
 
 ## Scenario
 
-Students receive a small website starter project and must improve it using safe Git workflow habits.
+Students receive a small website exercise starter project and must improve it using safe Git workflow habits.
 
 ## What problem does this solve?
 
@@ -32,9 +32,9 @@ It is more complex than a single mini-task, but it is the right complexity becau
 
 The capstone needs more coordination and time than earlier labs, especially if reviews and conflicts are included.
 
-## Starter files
+## Exercise starter files
 
-Starter project includes:
+Exercise starter project includes:
 
 ```markdown
 # DevSecOps Student Site
@@ -90,7 +90,7 @@ docs/add-security-warning
 
 ## Instructions
 
-1. Copy `starter/` into a separate practice repo.
+1. Copy `exercise-starter/` into a separate practice repo.
 2. Choose one task option and create a matching branch.
 3. Make a small focused change.
 4. Commit with a useful message.
@@ -150,6 +150,6 @@ Also confirm the evidence list is complete.
 - What part of the Git safety process would you want automated?
 - How would this workflow change in a larger team?
 
-## Reference solution
+## Exercise solution
 
-See `reference-solution/` for one completed version of the capstone project.
+See `exercise-solution/` for one completed version of the capstone project.

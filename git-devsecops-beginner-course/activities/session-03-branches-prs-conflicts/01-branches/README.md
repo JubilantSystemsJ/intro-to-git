@@ -32,9 +32,9 @@ Editing `main` directly is simpler for one person, but branches add just enough 
 
 Branches add more commands and can become messy if teams create too many or forget to merge and delete them.
 
-## Starter files
+## Exercise starter files
 
-Starter files:
+Exercise starter files:
 
 ```markdown
 # DevSecOps Student Site
@@ -105,6 +105,6 @@ Confirm the current branch is `feature/add-about-page` and the change is committ
 - What does a good branch name communicate?
 - When might a short-lived fix branch be better than editing on `main`?
 
-## Reference solution
+## Exercise solution
 
-See `reference-solution/about.html` for the updated page.
+See `exercise-solution/about.html` for the updated page.

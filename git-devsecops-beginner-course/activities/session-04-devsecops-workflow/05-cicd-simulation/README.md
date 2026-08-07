@@ -32,15 +32,15 @@ Manual review is simpler to start with, but even a tiny automated check shows ho
 
 Automation takes setup and can create noise if checks are too weak or too strict.
 
-## Starter files
+## Exercise starter files
 
-Starter README:
+Exercise starter README:
 
 ```markdown
 # CI/CD Simulation
 ```
 
-Reference workflow file is provided under `reference-solution/.github/workflows/basic-check.yml`.
+Reference workflow file is provided under `exercise-solution/.github/workflows/basic-check.yml`.
 
 ## Instructions
 
@@ -60,7 +60,7 @@ Students should understand that Git can trigger review, checks, and possibly dep
 Read the workflow:
 
 ```bash
-cat reference-solution/.github/workflows/basic-check.yml
+cat exercise-solution/.github/workflows/basic-check.yml
 cat notes/manual-cicd-checklist.md
 ```
 
@@ -78,6 +78,6 @@ Confirm you can explain what happens on `push` and `pull_request`.
 - What checks would you add next for a real project?
 - When is manual review still necessary?
 
-## Reference solution
+## Exercise solution
 
-See `reference-solution/README.md`, the workflow file, and the manual checklist.
+See `exercise-solution/README.md`, the workflow file, and the manual checklist.

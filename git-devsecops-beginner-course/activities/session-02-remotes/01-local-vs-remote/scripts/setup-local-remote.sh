@@ -19,12 +19,12 @@ git -C "$working_repo" init --initial-branch=main >/dev/null
 git -C "$working_repo" config user.name "Course Tester"
 git -C "$working_repo" config user.email "course.tester@example.com"
 
-cp "$activity_dir/starter/README.md" "$working_repo/README.md"
-cp "$activity_dir/starter/index.html" "$working_repo/index.html"
-cp "$activity_dir/starter/contact.html" "$working_repo/contact.html"
+cp "$activity_dir/exercise-starter/README.md" "$working_repo/README.md"
+cp "$activity_dir/exercise-starter/index.html" "$working_repo/index.html"
+cp "$activity_dir/exercise-starter/contact.html" "$working_repo/contact.html"
 
 git -C "$working_repo" add README.md index.html contact.html
-git -C "$working_repo" commit -m "Create starter site" >/dev/null
+git -C "$working_repo" commit -m "Create exercise starter site" >/dev/null
 
 git -C "$working_repo" remote add origin "$remote_repo"
 
