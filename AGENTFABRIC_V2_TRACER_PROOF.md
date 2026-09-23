@@ -1,0 +1,3 @@
+# AgentFabric V2 tracer bullet proof
+
+This file was added by AgentFabric V2's Phase 3 Windows ADO+Claude tracer bullet (checklist item P-013) as a safe, reviewable test of the full Work Setup -> Workspace -> Agent Session -> validation -> draft PR pipeline. It corresponds to Azure DevOps Work Item #33728, a dedicated sandbox test Story, not real product work. Safe to close this PR without merging once the tracer proof is recorded.
