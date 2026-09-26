@@ -2,6 +2,8 @@
 
 This repository contains generated course materials for the beginner Git and DevSecOps course under `git-devsecops-beginner-course/`.
 
+## Local validation
+
 Use the validation script after changes:
 
 ```bash
