@@ -1,0 +1,1 @@
+This disposable file proves P-074a: a real ADO Story linked to a real GitHub draft PR. Safe to ignore/close.
