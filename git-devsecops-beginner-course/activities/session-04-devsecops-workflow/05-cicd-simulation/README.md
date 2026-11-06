@@ -66,6 +66,8 @@ cat notes/manual-cicd-checklist.md
 
 Confirm you can explain what happens on `push` and `pull_request`.
 
+From the repository root, run `npm run test` to verify the workflow and checklist references.
+
 ## Common mistakes
 
 - Assuming every repository already has CI/CD.
