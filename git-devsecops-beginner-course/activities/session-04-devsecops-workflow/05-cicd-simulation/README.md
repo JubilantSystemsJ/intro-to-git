@@ -69,6 +69,7 @@ Confirm you can explain what happens on `push` and `pull_request`.
 Node.js 18 or later is required to run the test.
 
 From the repository root, run `npm run test` to verify the workflow and checklist references.
+This uses Node.js's built-in test runner and requires no dependency installation.
 
 ## Common mistakes
 
